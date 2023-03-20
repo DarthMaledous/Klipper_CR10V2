@@ -20,6 +20,8 @@ cors_domains =
 	*://localhost:*
 	*://my.mainsail.xyz
 	*://app.fluidd.xyz
+	http://e5plus-rpi
+	http://e5plus-rpi.ordersixty6.net
 
 [octoprint_compat]
 
